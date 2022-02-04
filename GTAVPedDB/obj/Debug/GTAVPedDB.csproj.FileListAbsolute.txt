@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\GTAVPedDB\bin\Debug\GTAVPedDB.exe.config
+C:\Users\usuario\source\repos\GTAVPedDB\bin\Debug\GTAVPedDB.exe
+C:\Users\usuario\source\repos\GTAVPedDB\bin\Debug\GTAVPedDB.pdb
+C:\Users\usuario\source\repos\GTAVPedDB\obj\Debug\GTAVPedDB.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\GTAVPedDB\obj\Debug\GTAVPedDB.Form1.resources
+C:\Users\usuario\source\repos\GTAVPedDB\obj\Debug\GTAVPedDB.Properties.Resources.resources
+C:\Users\usuario\source\repos\GTAVPedDB\obj\Debug\GTAVPedDB.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\GTAVPedDB\obj\Debug\GTAVPedDB.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\GTAVPedDB\obj\Debug\GTAVPedDB.exe
+C:\Users\usuario\source\repos\GTAVPedDB\obj\Debug\GTAVPedDB.pdb
